@@ -474,6 +474,8 @@ ul {
 .connect {
   color: var(--main-bg-color);
   text-transform: uppercase;
+  display: block;
+  margin-bottom: 20px;
 }
 
 .footer {
@@ -485,8 +487,8 @@ ul {
   margin-left: 70px;
 }
 
-.connect-links {
-  margin-top: 20px;
+.subscribe-section {
+  margin-left: 93px;
 }
 
 .links {
